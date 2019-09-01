@@ -1,0 +1,110 @@
+/*designing sheet of admin panal*/
+.f_div
+{
+	background-color: #55BBB1;
+	height: 50px;
+	width: 100%;
+}
+.img1
+{
+	height: 250px;
+	width: 100%;
+}
+.h-txt1
+{
+	color:#23665F; 
+}
+.btn-des
+{
+	margin-top: 10px;
+	background-color:#3F3F75;
+	color: white;
+	height: 30px;
+	width:114px;
+	border:0px;
+}
+.btn-des:hover
+{
+	margin-top: 10px;
+	background-color:#EF8309;
+	color: white;
+	height: 30px;
+	width:114px;
+	border:0px;
+}
+.footer-div
+{
+	height:40px;
+	width:100%;
+  background-color:#3F3F75;
+  margin-top: 500px;
+}
+.footer-span1
+{
+	color:white;
+font-family: callabri;
+font-size: 12px;
+}
+.footer-span2
+{
+color:white;
+font-family: callabri;
+font-size: 12px;
+margin-left: 700px;
+}
+.form-design
+{
+	border: 2px solid gray;
+	height: 200px;
+	width: 350px;
+	margin-left: 350px;
+	margin-right: 200px;
+	margin-top: 30px;
+	border-radius: 20px;
+}
+.txt-design
+{
+	margin-left: 20px;
+	width: 250px;
+		border-radius: 10px;
+}
+.btn-save
+{
+	background-color: green;
+	color: white;
+			border-radius: 10px;
+			width: 100px;
+			margin-left: 20px;
+}
+.btn-cancel
+{
+	background-color: red;
+	color: white;
+			border-radius: 10px;
+			width: 100px;
+			margin-left: 20px;
+}
+.lbl-des
+{
+	margin-left: 110px;
+	font-weight: bold;
+}
+.head-a
+		{
+background-color:#1a8da9;
+			height: 40px;
+			width: 50%;
+			font-size: 30px;
+			color: white;
+			border-radius: 20px;
+		}
+		.td-b
+		{
+			width:250px;
+			text-align: center;
+			height:40px;
+		}
+		.table-c
+		{
+			border-collapse: collapse;
+}
